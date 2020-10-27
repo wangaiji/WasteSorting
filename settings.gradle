@@ -1,0 +1,7 @@
+include ':baselibs'
+include ':mine'
+include ':guide'
+include ':recover'
+include ':distinguish'
+include ':app'
+rootProject.name = "WasteSorting"
