@@ -3,9 +3,7 @@
     package="com.example.baselibs">
 
     <application
-        android:allowBackup="false">
-        <activity android:name=".BaseActivity">
-        </activity>
+        android:allowBackup="true">
     </application>
 
 </manifest>

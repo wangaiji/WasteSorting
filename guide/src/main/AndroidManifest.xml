@@ -3,9 +3,7 @@
     package="com.example.guide">
 
     <application
-        android:allowBackup="false">
-        <activity android:name=".GuideActivity">
-        </activity>
+        android:allowBackup="true">
     </application>
 
 </manifest>

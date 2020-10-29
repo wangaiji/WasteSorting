@@ -3,9 +3,7 @@
     package="com.example.mine">
 
     <application
-        android:allowBackup="false">
-        <activity android:name=".MineActivity">
-        </activity>
+        android:allowBackup="true">
     </application>
 
 </manifest>

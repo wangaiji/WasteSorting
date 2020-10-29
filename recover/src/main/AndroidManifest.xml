@@ -3,9 +3,7 @@
     package="com.example.recover">
 
     <application
-        android:allowBackup="false">
-        <activity android:name=".RecoverActivity">
-        </activity>
+        android:allowBackup="true">
     </application>
 
 </manifest>

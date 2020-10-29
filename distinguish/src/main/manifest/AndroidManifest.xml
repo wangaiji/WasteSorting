@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.WasteSorting">
-        <activity android:name=".DistinguishActivity">
+        <activity android:name=".activity.DistinguishActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

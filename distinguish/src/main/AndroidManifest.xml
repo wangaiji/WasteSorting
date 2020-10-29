@@ -3,8 +3,7 @@
     package="com.example.distinguish">
 
     <application
-        android:allowBackup="false">
-        <activity android:name=".DistinguishActivity"/>
+        android:allowBackup="true">
     </application>
 
 </manifest>
