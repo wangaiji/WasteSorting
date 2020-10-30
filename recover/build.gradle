@@ -40,6 +40,8 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 
+    resourcePrefix "recover_"
+
     sourceSets {
         main {
             // 单独调试与集成调试时使用不同的 AndroidManifest.xml 文件
